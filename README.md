@@ -16,6 +16,8 @@ Develop a machine learning model using Logistic Regression to identify fraudulen
 - **Features**: Includes anonymized variables (V1, V2, ..., V28), along with `Time` (seconds elapsed since the first transaction), `Amount` (transaction amount), and `Class` (target variable: 1 for fraud, 0 for non-fraud).
 - **Target**: A binary variable indicating whether a transaction is fraudulent (1) or not (0).
 
+> **Source:** [Download the dataset here](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud).
+
 ## Objectives
 1. Perform exploratory data analysis (EDA) to understand feature distributions and relationships.
 2. Develop and train a Logistic Regression model to classify transactions as fraudulent or non-fraudulent.
